@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS and editors
+.DS_Store
+.vscode/
+
+# Local research data and results
+data/private/
+results/private/
