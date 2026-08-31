@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use ideas or public materials from this repository, please cite it as below."
+title: "Rosalind Bioinformatics Learning Atlas"
+authors:
+  - family-names: "Bilal"
+    given-names: "Muhammad"
+type: software
+repository-code: "https://github.com/mbilal-OU/Rosalind-Bioinformatics"
+url: "https://github.com/mbilal-OU/Rosalind-Bioinformatics"
+abstract: "A public learning atlas connecting core bioinformatics algorithms to original, reproducible applied genomics demonstrations."
+license: MIT
