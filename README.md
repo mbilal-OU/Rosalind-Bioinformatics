@@ -1,12 +1,12 @@
 # Rosalind Bioinformatics Learning Atlas
 
-> A rigorous, research-oriented guide to the computational ideas behind bioinformatics, built alongside a private Rosalind mastery curriculum.
+> A rigorous, research-oriented guide to the computational ideas behind bioinformatics, designed to accompany a private Rosalind mastery curriculum.
 
 [![Rosalind](https://img.shields.io/badge/learning%20path-Rosalind-1f6feb?logo=python&logoColor=white)](https://rosalind.info/problems/locations/)
 [![Focus](https://img.shields.io/badge/focus-algorithms%20%7C%20genomics%20%7C%20reproducibility-0f766e)](docs/learning-map.md)
 [![Portfolio](https://img.shields.io/badge/portfolio-Muhammad%20Bilal-f89b35)](https://mbilal-ou.github.io/)
 
-This public repository is the **learning and applied-analysis companion** to my private Rosalind work. It maps the concepts, reusable methods, validation standards, and biological applications needed to progress from introductory sequence problems to real computational genomics.
+This public repository is the **learning and applied-analysis companion** to a private Rosalind implementation workspace now being established. It maps the concepts, reusable methods, validation standards, and biological applications needed to progress from introductory sequence problems to real computational genomics.
 
 It intentionally does **not** publish Rosalind challenge solutions or private challenge datasets. Rosalind asks learners not to publish solutions outside its platform; this project respects that guidance while documenting the learning architecture and original applied work. See the [Rosalind FAQ](https://rosalind.info/faq/).
 
